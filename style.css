@@ -1,0 +1,104 @@
+.header-img img {
+  width: 100px;
+}
+.collapse .nav-menu {
+  text-align: right;
+  margin-left: 44%;
+}
+
+/* About Section */
+
+.about_section {
+  background-color: #f9f9ff;
+}
+.about-title h5 {
+    margin-top: 130px;
+}
+.about-btn button{
+  background-color: #8490ff;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* About Down Section */
+
+.about-down-title h6 {
+    margin-top: 130px;
+}
+.about-down-btn button{
+  background-color: #8490ff;
+}
+
+/*  Counter Section */
+
+.counter-section{
+  background-color: #8490ff;
+  padding: 80px 0;
+}
+
+/* Card Section */
+
+.card-section{
+  background-color: #f9f9ff;
+}
+.card-heading p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/*  Card Section */
+
+.card-number h2 {
+  width: 125px;
+  margin: auto;
+  height: 125px;
+  background: #f9f9ff;
+  line-height: 125px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.card-menu{
+  list-style: none;
+}
+.card-menu li {
+  font-size: 22px;
+  line-height: 4rem;
+}
+
+/*  Testimonial Section */
+
+.testimonial-section{
+  padding-top: 90px;
+}
+.testi-div img {
+  width: 100px;
+  margin-top: -73px;
+  margin-left: -180px;
+}
+
+/* Form section */
+
+.form-section{
+  background-color: #f9f9ff;
+}
+.contact-form-div .card{
+  box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+  padding: 40px;
+}
+.form-right{
+  list-style: none;
+}
+.form-right h4 {
+  margin-top: 115px;
+}
+.form-right li{}
+
+/* Footer Section */
+
+.footer-section{
+  background-color: #04091e;
+}
